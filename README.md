@@ -1,4 +1,7 @@
 ##Základní návody
+**UPOZORNĚNÍ**
+Styl těchto dokumentů je okopírován z Anglickýcj DBM dokumentů, link **[zde][https://silversunset.net/dbm/]**
+
 #Rozběhnutí bota v konzoli
 
 **Budete potřebovat nainstalovat node.js! [Link zde!](https://nodejs.org/en/download/)**
