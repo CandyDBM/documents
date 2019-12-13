@@ -1,5 +1,5 @@
 ##Základní návody
-**UPOZORNĚNÍ** <br>
+**UPOZORNĚNÍ**\n
 Styl těchto dokumentů je okopírován z Anglických DBM dokumentů, link **[zde][https://silversunset.net/dbm/]**
 
 #Rozběhnutí bota v konzoli
