@@ -10,6 +10,7 @@
 ![](http://developeri.wz.cz/docs/resources/dbm/images/cmd1.png)
 
 - Klikneme na adresu a přepíšeme ji na `cmd`
+  - Následně potvrdíme klávesou Enter
 
 ![](http://developeri.wz.cz/docs/resources/dbm/images/cmd2.png)
 
