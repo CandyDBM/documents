@@ -1,4 +1,5 @@
-## cmd
+##Základní návody
+#Rozběhnutí bota v konzoli
 
 **Budete potřebovat nainstalovat node.js! [Link zde!](https://nodejs.org/en/download/)**
 
