@@ -1,5 +1,4 @@
-# Nadpis1
-Popisek1
+# cmd
+1. Otevřeme složku projektu
 
-# Nadpis2
-Popisek2
+![](http://developeri.wz.cz/images/cmd1.png)
