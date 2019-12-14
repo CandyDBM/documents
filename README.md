@@ -28,7 +28,7 @@
  ![](http://developeri.wz.cz/docs/resources/dbm/images/mod3.png)
  - Klikneme na Download ZIP
  - Potom ako sa nám to stiahne tak ten ZIP súbor čo sa nám stiahol extrahujeme do složky s DBM
- 
+ <br>
  ![](http://developeri.wz.cz/docs/resources/dbm/images/mod4.png)
  - Reštartujte DBM
  - A máte hotovo!
