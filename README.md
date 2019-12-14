@@ -27,11 +27,11 @@
  - Ako klikneme na tlačítko Clone or download vyskočí na nás pop-up správa či to cheme otvoriť v Github Desktopu alebo stiahnúť v ZIP súbore
  ![](http://developeri.wz.cz/docs/resources/dbm/images/mod3.png)
  - Klikneme na Download ZIP
- - Potom ako sa nám to stiahne tak ten ZIP súbor čo sa nám stiahol extrahujeme do složky s DBM `Základna složka pre 64 bit systém: C:\Program Files (x86)\Steam\steamapps\common\Discord Bot Maker\ Pre 32 bit systém: C:\Program Files\Steam\steamapps\common\Discord Bot Maker\`
+ - Potom ako sa nám to stiahne tak ten ZIP súbor čo sa nám stiahol extrahujeme do složky s DBM Základna složka pre 64 bitový systém: `C:\Program Files (x86)\Steam\steamapps\common\Discord Bot Maker\` Pre 32 bitový systém: `C:\Program Files\Steam\steamapps\common\Discord Bot Maker\`
  <br>
  ![](http://developeri.wz.cz/docs/resources/dbm/images/mod4.png)
  - Reštartujte DBM
- - A máte hotovo!
+ - A máte hotovo! Prajeme dobrú chuť :D
 
 ##Příkazy
 V této sekci si ukážeme jak udělat některé příkazy
