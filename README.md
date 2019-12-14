@@ -21,13 +21,19 @@
 
 #Přidání módů
  - Otevřeme webovou stránku `https://github.com/Discord-Bot-Maker-Mods/DBM-Mods`
+ 
  ![](http://developeri.wz.cz/docs/resources/dbm/images/mod1.png)
+ 
  - Klikneme na tlačítko Clone or download
+ 
  ![](http://developeri.wz.cz/docs/resources/dbm/images/mod2.png)
+ 
  - Pote co klikneme na to tlačítko se objeví pop-up zpráva, zda to chceme otevřít v Github Desktop, nebo stáhnout v ZIP souboru
+ 
  ![](http://developeri.wz.cz/docs/resources/dbm/images/mod3.png)
+ 
  - Klikneme na Download ZIP
- - Poté co se nám stáhne tento soubor tak ho extrahujeme do složky, kde máme DBM (Základní složka pro 64 bitový windows: `C:\Program Files (x86)\Steam\steamapps\common\Discord Bot Maker\` Pre 32 bitový systém: `C:\Program Files\Steam\steamapps\common\Discord Bot Maker\`
+ - Poté co se nám stáhne tento soubor tak ho extrahujeme do složky, kde máme DBM (Základní složka pro 64 bitový windows: `C:\Program Files (x86)\Steam\steamapps\common\Discord Bot Maker\` Pro 32 bitový systém: `C:\Program Files\Steam\steamapps\common\Discord Bot Maker\`
  <br>
  ![](http://developeri.wz.cz/docs/resources/dbm/images/mod4.png)
  - Restartujeme DBM
