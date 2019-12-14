@@ -19,6 +19,19 @@
 
 ![](http://developeri.wz.cz/docs/resources/dbm/images/cmd3.png)
 
+#Nainštalovanie Módov
+ - Otvorime webový prehliadač a do adresy napíšeme `https://github.com/Discord-Bot-Maker-Mods/DBM-Mods`
+ ![](http://developeri.wz.cz/docs/resources/dbm/images/mod1.png)
+ - Potom klikneme na tlačítko Clone or download
+ ![](http://developeri.wz.cz/docs/resources/dbm/images/mod2.png)
+ - Ako klikneme na tlačítko Clone or download vyskočí na nás pop-up správa či to cheme otvoriť v Github Desktopu alebo stiahnúť v ZIP súbore
+ ![](http://developeri.wz.cz/docs/resources/dbm/images/mod3.png)
+ - Klikneme na Download ZIP
+ - Potom ako sa nám to stiahne tak ten ZIP súbor čo sa nám stiahol extrahujeme do složky s DBM
+ ![](http://developeri.wz.cz/docs/resources/dbm/images/mod4.png)
+ - Reštartujte DBM
+ - A máte hotovo!
+
 ##Příkazy
 V této sekci si ukážeme jak udělat některé příkazy
 #Say command
